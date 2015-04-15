@@ -13,6 +13,7 @@ Thank you [Under Armour](https://www.underarmour.com) will graciously be hosting
 * 7:30pm: The Emergence of the Datacenter Developer (@superguenter)
  * https://github.com/mesosphere/presentations/blob/master/apachecon-2015/datacenter-developer/The_Emergence_of_the_Datacenter_Developer.pdf
 * 8:00pm: Apache Aurora at at Twitter (@davelester)
+ * https://speakerdeck.com/dlester/apache-aurora-at-twitter
 * 8:20pm: Mesos+YARN=Myriad (Adam Borlen)
 * 8:40pm: Q&A with Mesos committers/adopters, networking, food/drinks
 * 9:00pm: End of event
